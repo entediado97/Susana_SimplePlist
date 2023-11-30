@@ -1,4 +1,10 @@
-# Susana 
+<h1 align="center">
+  <br>
+  <a href="https://github.com/entediado97/Susana_SimplePlist"><img src="https://i.ibb.co/LzDrjJz/susana.png" alt="susana" border="0">
+  <br>
+  Susana
+  <br>
+</h1>
 
 Bem-vindo ao Susana - Simple Plist, uma ferramenta ágil  projetada para transformar o modo como você lida com arquivos `.plist` em projetos de pentest mobile iOS. Este script simplifica a busca e análise de arquivos `.plist`, convertendo-os em `.xml` para facilitar a pesquisa na fase de reconhecimento.
 
