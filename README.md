@@ -18,7 +18,7 @@ Certifique-se de ter o Python instalado em seu ambiente (Python 3.x recomendado)
 Clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/bhonori/Susana_SimplePlist.git
+git clone https://github.com/entediado97/Susana_SimplePlist
 cd caminho-para-SimplePlist-Susana
 ```
 
