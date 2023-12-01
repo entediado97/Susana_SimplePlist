@@ -1,3 +1,8 @@
+"""
+=========================================================
+   https://github.com/entediado97/Susana_SimplePlist
+=========================================================
+"""
 import os
 import shutil
 import subprocess
